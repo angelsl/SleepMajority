@@ -1,0 +1,12 @@
+name: SleepMajority
+version: '0.0.1'
+author: angelsl
+main: io.github.angelsl.sleepmajority.SleepMajority
+api-version: '1.13'
+commands:
+  sleepmajority:
+    description: Advance to daytime
+    permission: sleepmajority.sleepmajority
+permissions:
+  sleepmajority.sleepmajority:
+    description: Allow use of sleepmajority
